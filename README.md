@@ -30,8 +30,8 @@ Paste any stock ticker and get a structured, analyst-style research report in se
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/stock-analyst.git
-cd stock-analyst
+git clone https://github.com/iamtekka/AI-Stock-Analyst.git
+cd AI-Stock-Analyst
 ```
 
 ### 2. Get an Anthropic API key
@@ -59,7 +59,7 @@ This is a zero-dependency single HTML file. Deploy it anywhere static files are 
 1. Push `index.html` to a public repo
 2. Go to **Settings → Pages**
 3. Set branch to `main`, folder to `/ (root)`
-4. Your site will be live at `https://your-username.github.io/stock-analyst/`
+4. Your site will be live at `https://iamtekka.github.io/AI-Stock-Analyst/`
 
 ### Other options
 
